@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Walk \'N\' Go</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Not Registered? Click Here!</string>
+    <string name="settings">Account Settings</string>
+    <string name="search">Search</string>
+    <string name="Logout">Logout</string>
+    <string name="conPass">Confirm Password</string>
+    <string name="registration">Registration</string>
+    <string name="createAccount">Create Account</string>
+    <string name="registered">Already Registered? Click Here!</string>
+    <string name="title_activity_setup">SetupActivity</string>
+    <string name="changePass">Change Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="focus">Focus Camera</string>
+    <string name="qrReader">QR Reader</string>
+    <string name="detect">Click to Scan</string>
+    <string name="noText">No Text Detected</string>
+    <string name="searchMap">Enter Address, City, or Post Code</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="openmap">Lookup On Map</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="getLocation">Get Location</string>
+    <string name="upload">Upload</string>
+    <string name="mapSerarch">Enter Address, City or Post Code</string>
+    <string name="google_api_key_str">AIzaSyDzrHApW0LHPWxy3QLti8Ufcz-VOkyOIDY</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="getDirection">Get Directions</string>
+</resources>

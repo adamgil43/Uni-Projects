@@ -1,0 +1,7 @@
+Adjust temperature
+Adjust Cooling Rate
+Think of temperature and cooling rate as their own matrix - find best balance for size of graph
+We might be able to create two new functions that work out the coolrate and the temperature
+Compare against TSP LIb
+Better to compare variables in sim annealing than to have multiple metas
+Compare starting at all nodes

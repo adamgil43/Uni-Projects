@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "98144636366",
+    "firebase_url": "https://gilmour5300cem.firebaseio.com",
+    "project_id": "gilmour5300cem",
+    "storage_bucket": "gilmour5300cem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98144636366:android:9e6d9eb6626249d8",
+        "android_client_info": {
+          "package_name": "com.example.adam.gilmour5_300cem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98144636366-9enpdk46j16ejhek7s5vq495g8cpjv7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adam.gilmour5_300cem",
+            "certificate_hash": "a080f59e83fb6a89df6147896fe5e5d07ce59652"
+          }
+        },
+        {
+          "client_id": "98144636366-4pligmmbvq8bhgu3ou2cpt522jbu3b2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc_uIrjbGn3b-nl91GZIKMZNB-2hWKBNY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98144636366-4pligmmbvq8bhgu3ou2cpt522jbu3b2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
